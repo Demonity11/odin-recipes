@@ -1,0 +1,54 @@
+* {
+    text-align: center;
+}
+
+.paragrafo {
+    font-size: 20px;
+    box-sizing: border-box;
+    width: 500px;
+    margin: 10px auto;
+}
+
+li {
+    font-size: 18px;
+    text-align: left;
+}
+
+
+.container {
+    background-color: white;
+    box-sizing: border-box;
+    width: 400px;
+    margin: 10px auto;
+    padding: 4px 12px;
+    border: 2px solid black;
+}
+
+.preparo {
+    width: 700px;
+}
+
+body {
+    background-color: rgba(128, 128, 128, 0.274);
+}
+
+.linha {
+    background-color: black;
+    height: 4px;
+    margin: auto;
+}
+
+.imagem {
+    width: 600px;
+    box-sizing: border-box;
+    margin: 10px auto;
+}
+
+.total {
+    box-sizing: border-box;
+    background-color: rgba(128, 128, 128, 0.459);
+    padding: 10px;
+    width: 1200px;
+    margin:auto;
+}
+
